@@ -1,4 +1,5 @@
-gitkraken_workshop
+# GitKraken Workshop
+A hands-on workshop to demontrate using GitKraken as a GUI client to the Git version control system.
 
 # Made some local changes
 
